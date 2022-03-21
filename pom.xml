@@ -24,8 +24,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:jqassistant-contrib/jqassistant-graph-algorithms-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jqassistant-contrib/jqassistant-graph-algorithms-plugin.git
+        <connection>scm:git:https://github.com/jqassistant-contrib/jqassistant-graph-algorithms-plugin.git</connection>
+        <developerConnection>scm:git:https://github.com/jqassistant-contrib/jqassistant-graph-algorithms-plugin.git
         </developerConnection>
         <url>https://github.com/jqassistant-contrib/jqassistant-graph-algorithms-plugin</url>
         <tag>HEAD</tag>
